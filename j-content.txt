@@ -2,10 +2,12 @@ Jucopp konten
 - bikin video terstruktur
   * membuat video terstruktur di website jucopp
   * membuat file file di github
+  *mengelompokkan teman-teman di devisi level masing2
 - buat card name
  * agar mudah di akses banyak orang
 - buat website jucopp
  *buat aja mengguanakan ci4
+ *CRUD sistem
  *ingat buat website data bukan website wordpress
  *buat menggunakan PHP,Bootstrap4
  *framewok ci4
