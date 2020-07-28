@@ -3,4 +3,5 @@ Jucopp konten
   * membuat video terstruktur di website jucopp
   * membuat file file di github
 - buat card name
+ * agar mudah di akses banyak orang
 - buat website jucopp
