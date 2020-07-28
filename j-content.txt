@@ -5,3 +5,5 @@ Jucopp konten
 - buat card name
  * agar mudah di akses banyak orang
 - buat website jucopp
+ *buat menggunakan PHP,Bootstrap4
+ *framewok ci4
