@@ -7,3 +7,6 @@ Jucopp konten
 - buat website jucopp
  *buat menggunakan PHP,Bootstrap4
  *framewok ci4
+
+
+nb : usahakan belajar yang terstruktur
