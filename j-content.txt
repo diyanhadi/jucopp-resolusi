@@ -5,6 +5,8 @@ Jucopp konten
 - buat card name
  * agar mudah di akses banyak orang
 - buat website jucopp
+ *buat aja mengguanakan ci4
+ *ingat buat website data bukan website wordpress
  *buat menggunakan PHP,Bootstrap4
  *framewok ci4
 
