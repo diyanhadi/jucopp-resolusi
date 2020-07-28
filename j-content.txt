@@ -7,3 +7,8 @@ Jucopp konten
 - buat website jucopp
  *buat aja mengguanakan ci4
  *ingat buat website data bukan website wordpress
+ *buat menggunakan PHP,Bootstrap4
+ *framewok ci4
+
+
+nb : usahakan belajar yang terstruktur
